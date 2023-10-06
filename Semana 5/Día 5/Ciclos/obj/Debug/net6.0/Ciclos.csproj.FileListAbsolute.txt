@@ -1,0 +1,15 @@
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Ciclos/bin/Debug/net6.0/Ciclos
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Ciclos/bin/Debug/net6.0/Ciclos.deps.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Ciclos/bin/Debug/net6.0/Ciclos.runtimeconfig.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Ciclos/bin/Debug/net6.0/Ciclos.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Ciclos/bin/Debug/net6.0/Ciclos.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Ciclos/obj/Debug/net6.0/Ciclos.csproj.AssemblyReference.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Ciclos/obj/Debug/net6.0/Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Ciclos/obj/Debug/net6.0/Ciclos.AssemblyInfoInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Ciclos/obj/Debug/net6.0/Ciclos.AssemblyInfo.cs
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Ciclos/obj/Debug/net6.0/Ciclos.csproj.CoreCompileInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Ciclos/obj/Debug/net6.0/Ciclos.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Ciclos/obj/Debug/net6.0/refint/Ciclos.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Ciclos/obj/Debug/net6.0/Ciclos.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Ciclos/obj/Debug/net6.0/Ciclos.genruntimeconfig.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Ciclos/obj/Debug/net6.0/ref/Ciclos.dll

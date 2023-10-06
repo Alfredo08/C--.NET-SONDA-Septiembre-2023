@@ -1,0 +1,15 @@
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Condicionales/bin/Debug/net6.0/Condicionales
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Condicionales/bin/Debug/net6.0/Condicionales.deps.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Condicionales/bin/Debug/net6.0/Condicionales.runtimeconfig.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Condicionales/bin/Debug/net6.0/Condicionales.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Condicionales/bin/Debug/net6.0/Condicionales.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Condicionales/obj/Debug/net6.0/Condicionales.csproj.AssemblyReference.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Condicionales/obj/Debug/net6.0/Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Condicionales/obj/Debug/net6.0/Condicionales.AssemblyInfoInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Condicionales/obj/Debug/net6.0/Condicionales.AssemblyInfo.cs
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Condicionales/obj/Debug/net6.0/Condicionales.csproj.CoreCompileInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Condicionales/obj/Debug/net6.0/Condicionales.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Condicionales/obj/Debug/net6.0/refint/Condicionales.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Condicionales/obj/Debug/net6.0/Condicionales.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Condicionales/obj/Debug/net6.0/Condicionales.genruntimeconfig.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Condicionales/obj/Debug/net6.0/ref/Condicionales.dll

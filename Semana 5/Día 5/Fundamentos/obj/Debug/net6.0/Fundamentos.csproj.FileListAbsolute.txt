@@ -1,0 +1,15 @@
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Fundamentos/bin/Debug/net6.0/Fundamentos
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Fundamentos/bin/Debug/net6.0/Fundamentos.deps.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Fundamentos/bin/Debug/net6.0/Fundamentos.runtimeconfig.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Fundamentos/bin/Debug/net6.0/Fundamentos.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Fundamentos/bin/Debug/net6.0/Fundamentos.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Fundamentos/obj/Debug/net6.0/Fundamentos.csproj.AssemblyReference.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Fundamentos/obj/Debug/net6.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Fundamentos/obj/Debug/net6.0/Fundamentos.AssemblyInfoInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Fundamentos/obj/Debug/net6.0/Fundamentos.AssemblyInfo.cs
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Fundamentos/obj/Debug/net6.0/Fundamentos.csproj.CoreCompileInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Fundamentos/obj/Debug/net6.0/Fundamentos.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Fundamentos/obj/Debug/net6.0/refint/Fundamentos.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Fundamentos/obj/Debug/net6.0/Fundamentos.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Fundamentos/obj/Debug/net6.0/Fundamentos.genruntimeconfig.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 5/Día 5/Fundamentos/obj/Debug/net6.0/ref/Fundamentos.dll
