@@ -1,0 +1,15 @@
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Diccionarios/bin/Debug/net6.0/Diccionarios
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Diccionarios/bin/Debug/net6.0/Diccionarios.deps.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Diccionarios/bin/Debug/net6.0/Diccionarios.runtimeconfig.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Diccionarios/bin/Debug/net6.0/Diccionarios.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Diccionarios/bin/Debug/net6.0/Diccionarios.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Diccionarios/obj/Debug/net6.0/Diccionarios.csproj.AssemblyReference.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Diccionarios/obj/Debug/net6.0/Diccionarios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Diccionarios/obj/Debug/net6.0/Diccionarios.AssemblyInfoInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Diccionarios/obj/Debug/net6.0/Diccionarios.AssemblyInfo.cs
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Diccionarios/obj/Debug/net6.0/Diccionarios.csproj.CoreCompileInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Diccionarios/obj/Debug/net6.0/Diccionarios.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Diccionarios/obj/Debug/net6.0/refint/Diccionarios.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Diccionarios/obj/Debug/net6.0/Diccionarios.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Diccionarios/obj/Debug/net6.0/Diccionarios.genruntimeconfig.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Diccionarios/obj/Debug/net6.0/ref/Diccionarios.dll

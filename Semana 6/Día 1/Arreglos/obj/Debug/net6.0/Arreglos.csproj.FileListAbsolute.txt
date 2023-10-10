@@ -1,0 +1,15 @@
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Arreglos/bin/Debug/net6.0/Arreglos
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Arreglos/bin/Debug/net6.0/Arreglos.deps.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Arreglos/bin/Debug/net6.0/Arreglos.runtimeconfig.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Arreglos/bin/Debug/net6.0/Arreglos.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Arreglos/bin/Debug/net6.0/Arreglos.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Arreglos/obj/Debug/net6.0/Arreglos.csproj.AssemblyReference.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Arreglos/obj/Debug/net6.0/Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Arreglos/obj/Debug/net6.0/Arreglos.AssemblyInfoInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Arreglos/obj/Debug/net6.0/Arreglos.AssemblyInfo.cs
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Arreglos/obj/Debug/net6.0/Arreglos.csproj.CoreCompileInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Arreglos/obj/Debug/net6.0/Arreglos.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Arreglos/obj/Debug/net6.0/refint/Arreglos.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Arreglos/obj/Debug/net6.0/Arreglos.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Arreglos/obj/Debug/net6.0/Arreglos.genruntimeconfig.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 1/Arreglos/obj/Debug/net6.0/ref/Arreglos.dll
