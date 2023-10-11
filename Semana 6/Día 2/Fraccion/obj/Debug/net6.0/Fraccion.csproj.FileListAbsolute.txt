@@ -1,0 +1,15 @@
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Fraccion/obj/Debug/net6.0/Fraccion.csproj.AssemblyReference.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Fraccion/obj/Debug/net6.0/Fraccion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Fraccion/obj/Debug/net6.0/Fraccion.AssemblyInfoInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Fraccion/obj/Debug/net6.0/Fraccion.AssemblyInfo.cs
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Fraccion/obj/Debug/net6.0/Fraccion.csproj.CoreCompileInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Fraccion/bin/Debug/net6.0/Fraccion
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Fraccion/bin/Debug/net6.0/Fraccion.deps.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Fraccion/bin/Debug/net6.0/Fraccion.runtimeconfig.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Fraccion/bin/Debug/net6.0/Fraccion.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Fraccion/bin/Debug/net6.0/Fraccion.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Fraccion/obj/Debug/net6.0/Fraccion.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Fraccion/obj/Debug/net6.0/refint/Fraccion.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Fraccion/obj/Debug/net6.0/Fraccion.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Fraccion/obj/Debug/net6.0/Fraccion.genruntimeconfig.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Fraccion/obj/Debug/net6.0/ref/Fraccion.dll

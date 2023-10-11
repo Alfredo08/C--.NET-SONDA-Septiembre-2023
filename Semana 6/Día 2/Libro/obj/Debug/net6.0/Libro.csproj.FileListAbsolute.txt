@@ -1,0 +1,15 @@
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Libro/obj/Debug/net6.0/Libro.csproj.AssemblyReference.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Libro/obj/Debug/net6.0/Libro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Libro/obj/Debug/net6.0/Libro.AssemblyInfoInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Libro/obj/Debug/net6.0/Libro.AssemblyInfo.cs
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Libro/obj/Debug/net6.0/Libro.csproj.CoreCompileInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Libro/bin/Debug/net6.0/Libro
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Libro/bin/Debug/net6.0/Libro.deps.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Libro/bin/Debug/net6.0/Libro.runtimeconfig.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Libro/bin/Debug/net6.0/Libro.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Libro/bin/Debug/net6.0/Libro.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Libro/obj/Debug/net6.0/Libro.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Libro/obj/Debug/net6.0/refint/Libro.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Libro/obj/Debug/net6.0/Libro.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Libro/obj/Debug/net6.0/Libro.genruntimeconfig.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 2/Libro/obj/Debug/net6.0/ref/Libro.dll
