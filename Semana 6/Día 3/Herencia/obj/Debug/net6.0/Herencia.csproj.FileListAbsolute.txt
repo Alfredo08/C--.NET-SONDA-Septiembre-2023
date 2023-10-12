@@ -1,0 +1,15 @@
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Herencia/bin/Debug/net6.0/Herencia
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Herencia/bin/Debug/net6.0/Herencia.deps.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Herencia/bin/Debug/net6.0/Herencia.runtimeconfig.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Herencia/bin/Debug/net6.0/Herencia.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Herencia/bin/Debug/net6.0/Herencia.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Herencia/obj/Debug/net6.0/Herencia.csproj.AssemblyReference.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Herencia/obj/Debug/net6.0/Herencia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Herencia/obj/Debug/net6.0/Herencia.AssemblyInfoInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Herencia/obj/Debug/net6.0/Herencia.AssemblyInfo.cs
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Herencia/obj/Debug/net6.0/Herencia.csproj.CoreCompileInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Herencia/obj/Debug/net6.0/Herencia.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Herencia/obj/Debug/net6.0/refint/Herencia.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Herencia/obj/Debug/net6.0/Herencia.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Herencia/obj/Debug/net6.0/Herencia.genruntimeconfig.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Herencia/obj/Debug/net6.0/ref/Herencia.dll

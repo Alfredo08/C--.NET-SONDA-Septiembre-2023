@@ -1,0 +1,15 @@
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Figuras/obj/Debug/net6.0/Figuras.csproj.AssemblyReference.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Figuras/obj/Debug/net6.0/Figuras.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Figuras/obj/Debug/net6.0/Figuras.AssemblyInfoInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Figuras/obj/Debug/net6.0/Figuras.AssemblyInfo.cs
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Figuras/obj/Debug/net6.0/Figuras.csproj.CoreCompileInputs.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Figuras/bin/Debug/net6.0/Figuras
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Figuras/bin/Debug/net6.0/Figuras.deps.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Figuras/bin/Debug/net6.0/Figuras.runtimeconfig.json
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Figuras/bin/Debug/net6.0/Figuras.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Figuras/bin/Debug/net6.0/Figuras.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Figuras/obj/Debug/net6.0/Figuras.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Figuras/obj/Debug/net6.0/refint/Figuras.dll
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Figuras/obj/Debug/net6.0/Figuras.pdb
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Figuras/obj/Debug/net6.0/Figuras.genruntimeconfig.cache
+/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 3/Figuras/obj/Debug/net6.0/ref/Figuras.dll
