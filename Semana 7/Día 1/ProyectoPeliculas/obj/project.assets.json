@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 4/ProyectoPeliculas/ProyectoPeliculas.csproj",
+      "projectUniqueName": "/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 7/Día 1/ProyectoPeliculas/ProyectoPeliculas.csproj",
       "projectName": "ProyectoPeliculas",
-      "projectPath": "/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 4/ProyectoPeliculas/ProyectoPeliculas.csproj",
+      "projectPath": "/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 7/Día 1/ProyectoPeliculas/ProyectoPeliculas.csproj",
       "packagesPath": "/Users/alfredosalazar/.nuget/packages/",
-      "outputPath": "/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 6/Día 4/ProyectoPeliculas/obj/",
+      "outputPath": "/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 7/Día 1/ProyectoPeliculas/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alfredosalazar/.nuget/NuGet/NuGet.Config"
