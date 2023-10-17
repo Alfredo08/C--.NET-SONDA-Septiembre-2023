@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "Grqt3IDU4Sva83rG7HSSRqFYCy3xtNlGhCFp3qFn+rU=",
+  "Source": "ProyectoPeliculas",
+  "BasePath": "_content/ProyectoPeliculas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProyectoPeliculas/wwwroot",
+      "Source": "ProyectoPeliculas",
+      "ContentRoot": "/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 7/Día 2/ProyectoPeliculas/wwwroot/",
+      "BasePath": "_content/ProyectoPeliculas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 7/Día 2/ProyectoPeliculas/wwwroot/.DS_Store",
+      "SourceId": "ProyectoPeliculas",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 7/Día 2/ProyectoPeliculas/wwwroot/",
+      "BasePath": "_content/ProyectoPeliculas",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
+      "Identity": "/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 7/Día 2/ProyectoPeliculas/wwwroot/css/styles.css",
+      "SourceId": "ProyectoPeliculas",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 7/Día 2/ProyectoPeliculas/wwwroot/",
+      "BasePath": "_content/ProyectoPeliculas",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/styles.css"
+    },
+    {
+      "Identity": "/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 7/Día 2/ProyectoPeliculas/wwwroot/imagenes/InstructorAlfredo.png",
+      "SourceId": "ProyectoPeliculas",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 7/Día 2/ProyectoPeliculas/wwwroot/",
+      "BasePath": "_content/ProyectoPeliculas",
+      "RelativePath": "imagenes/InstructorAlfredo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/imagenes/InstructorAlfredo.png"
+    }
+  ]
+}

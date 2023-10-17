@@ -1,0 +1,28 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProyectoPeliculas
+build_property.RootNamespace = ProyectoPeliculas
+build_property.ProjectDir = /Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 7/Día 2/ProyectoPeliculas/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 7/Día 2/ProyectoPeliculas
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 7/Día 2/ProyectoPeliculas/Views/Principal/Directores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJpbmNpcGFsL0RpcmVjdG9yZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 7/Día 2/ProyectoPeliculas/Views/Principal/FormularioDirector.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJpbmNpcGFsL0Zvcm11bGFyaW9EaXJlY3Rvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 7/Día 2/ProyectoPeliculas/Views/Principal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJpbmNpcGFsL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
