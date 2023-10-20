@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model Director
+<div class="text-center">
+    <h1 class="display-4">
+        Bienvenido de vuelta @Context.Session.GetString("Nombre") @Context.Session.GetString("Apellido")
+    </h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
