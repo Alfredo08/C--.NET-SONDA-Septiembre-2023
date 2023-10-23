@@ -119,10 +119,9 @@ public class HomeController : Controller{
     [HttpPost]
     [Route("actualiza/pelicula/{id_pelicula}")]
     public IActionResult ActualizaPelicula(Pelicula pelicula, int id_pelicula){
-        if(ModelState.IsValid){
-            Console.WriteLine("Validaciones exitosas.");
-            Pelicula? peliculaPrevia = _context.Peliculas.FirstOrDefault(peli => peli.Id == id_pelicula);
+        Pelicula? peliculaPrevia = _context.Peliculas.FirstOrDefault(peli => peli.Id == id_pelicula);
 
+        if(ModelState.IsValid){
             peliculaPrevia.Titulo = pelicula.Titulo;
             peliculaPrevia.Genero = pelicula.Genero;
             peliculaPrevia.Anio = pelicula.Anio;
@@ -131,8 +130,7 @@ public class HomeController : Controller{
             _context.SaveChanges();
             return RedirectToAction("Index");
         }
-        Console.WriteLine("Algo falló.");
-        return View("FormularioEditarPelicula", pelicula);
+        return View("FormularioEditarPelicula", peliculaPrevia);
 
     }
 
