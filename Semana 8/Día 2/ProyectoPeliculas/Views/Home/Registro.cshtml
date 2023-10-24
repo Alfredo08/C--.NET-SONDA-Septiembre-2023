@@ -1,0 +1,27 @@
+@model Director
+@await Html.PartialAsync("_Encabezado", "Registro")
+<form method="POST" asp-controller="Home" asp-action="ProcesaRegistro">
+    <div>
+        <label asp-for="Nombre"> Nombre del director: </label>
+        <input type="text" asp-for="Nombre">
+        <span asp-validation-for="Nombre"></span>
+    </div>
+    <div>
+        <label asp-for="Apellido"> Apellido del director: </label>
+        <input type="text" asp-for="Apellido">
+        <span asp-validation-for="Apellido"></span>
+    </div>
+    <div>
+        <label asp-for="Email"> Email del director: </label>
+        <input type="text" asp-for="Email">
+        <span asp-validation-for="Email"></span>
+    </div>
+    <div>
+        <label asp-for="Password"> Password del director: </label>
+        <input type="password" asp-for="Password">
+        <span asp-validation-for="Password"></span>
+    </div>
+    <button class="btn btn-primary">
+        Registrar
+    </button>
+</form>

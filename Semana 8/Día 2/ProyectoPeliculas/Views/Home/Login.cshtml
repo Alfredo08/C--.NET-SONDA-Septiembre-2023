@@ -1,0 +1,17 @@
+@model Login
+@await Html.PartialAsync("_Encabezado", "Login")
+<form method="POST" asp-controller="Home" asp-action="ProcesaLogin">
+    <div>
+        <label asp-for="Email"> Email del director: </label>
+        <input type="text" asp-for="Email">
+        <span asp-validation-for="Email"></span>
+    </div>
+    <div>
+        <label asp-for="Password"> Password del director: </label>
+        <input type="password" asp-for="Password">
+        <span asp-validation-for="Password"></span>
+    </div>
+    <button class="btn btn-primary">
+        Login
+    </button>
+</form>
