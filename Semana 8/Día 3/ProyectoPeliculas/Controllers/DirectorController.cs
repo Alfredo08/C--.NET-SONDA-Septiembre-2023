@@ -85,7 +85,7 @@ public class DirectorController : Controller{
                     HttpContext.Session.SetString("Apellido", director.Apellido);
                     HttpContext.Session.SetString("Email", director.Email);
                     HttpContext.Session.SetInt32("Id", director.Id);
-                    return RedirectToActionResult("Peliculas", "Pelicula", null);
+                    return RedirectToAction("Peliculas", "Pelicula");
                 }
             }
             ModelState.AddModelError("Password", "Credenciales incorrectas");
@@ -112,7 +112,7 @@ public class SessionCheckAttribute : ActionFilterAttribute
         {
             // Redirect to the Index page if there was nothing in session
             // "Home" here is referring to "HomeController", you can use any controller that is appropriate here
-            context.Result = new RedirectToActionResult("Login", "Home", null);
+            context.Result = new RedirectToActionResult("Login", "Director", null);
         }
     }
 }
