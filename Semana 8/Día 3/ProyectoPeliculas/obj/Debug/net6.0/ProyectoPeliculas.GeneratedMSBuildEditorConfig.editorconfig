@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProyectoPeliculas
+build_property.RootNamespace = ProyectoPeliculas
+build_property.ProjectDir = /Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 8/Día 3/ProyectoPeliculas/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 8/Día 3/ProyectoPeliculas
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 8/Día 3/ProyectoPeliculas/Views/Director/Directores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlyZWN0b3IvRGlyZWN0b3Jlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 8/Día 3/ProyectoPeliculas/Views/Director/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlyZWN0b3IvTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 8/Día 3/ProyectoPeliculas/Views/Director/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlyZWN0b3IvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 8/Día 3/ProyectoPeliculas/Views/Director/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlyZWN0b3IvUmVnaXN0cm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 8/Día 3/ProyectoPeliculas/Views/Pelicula/FormularioEditarPelicula.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVsaWN1bGEvRm9ybXVsYXJpb0VkaXRhclBlbGljdWxhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 8/Día 3/ProyectoPeliculas/Views/Pelicula/FormularioPelicula.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVsaWN1bGEvRm9ybXVsYXJpb1BlbGljdWxhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 8/Día 3/ProyectoPeliculas/Views/Pelicula/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVsaWN1bGEvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 8/Día 3/ProyectoPeliculas/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 8/Día 3/ProyectoPeliculas/Views/Shared/_Encabezado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19FbmNhYmV6YWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 8/Día 3/ProyectoPeliculas/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 8/Día 3/ProyectoPeliculas/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 8/Día 3/ProyectoPeliculas/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfredosalazar/Desktop/C--.NET-SONDA-Septiembre-2023/Semana 8/Día 3/ProyectoPeliculas/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ewu0uu3qo6

@@ -1,0 +1,30 @@
+@model Pelicula
+<form method="POST" asp-controller="Pelicula" asp-action="ActualizaPelicula" asp-route-id_pelicula="@Model.Id">
+
+    <div>
+        <label asp-for="Titulo"> Titulo: </label>
+        <input type="text" asp-for="Titulo" value="@Model.Titulo">
+        <span asp-validation-for="Titulo"></span>
+    </div>
+    <div>
+        <label asp-for="Genero"> Genero: </label>
+        <input type="text" asp-for="Genero" value="@Model.Genero">
+        <span asp-validation-for="Genero"></span>
+    </div>
+    <div>
+        <label asp-for="Descripcion"> Descripcion: </label>
+        <textarea asp-for="Descripcion">@Model.Descripcion</textarea>
+        <span asp-validation-for="Descripcion"></span>
+    </div>
+    <div>
+        <label asp-for="Anio"> Año: </label>
+        <input type="text" asp-for="Anio" value="@Model.Anio">
+        <span asp-validation-for="Anio"></span>
+    </div>
+    <div>
+        <input type="hidden" asp-for="Director_Id" value="@Context.Session.GetInt32("Id")">
+    </div>
+    <button class="btn btn-primary">
+        Editar
+    </button>
+</form>
