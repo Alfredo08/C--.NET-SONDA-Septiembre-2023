@@ -1,0 +1,29 @@
+@model Pelicula
+<form method="POST" action="/nueva/pelicula">
+    <div>
+        <label asp-for="Titulo"> Titulo: </label>
+        <input type="text" asp-for="Titulo">
+        <span asp-validation-for="Titulo"></span>
+    </div>
+    <div>
+        <label asp-for="Genero"> Genero: </label>
+        <input type="text" asp-for="Genero">
+        <span asp-validation-for="Genero"></span>
+    </div>
+    <div>
+        <label asp-for="Descripcion"> Descripcion: </label>
+        <textarea asp-for="Descripcion"></textarea>
+        <span asp-validation-for="Descripcion"></span>
+    </div>
+    <div>
+        <label asp-for="Anio"> Año: </label>
+        <input type="text" asp-for="Anio">
+        <span asp-validation-for="Anio"></span>
+    </div>
+    <div>
+        <input type="hidden" asp-for="DirectorId" value="@Context.Session.GetInt32("Id")">
+    </div>
+    <button class="btn btn-primary">
+        Agregar
+    </button>
+</form>

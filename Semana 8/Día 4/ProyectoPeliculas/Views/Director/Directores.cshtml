@@ -1,0 +1,13 @@
+@model List<Director>
+@await Html.PartialAsync("_Encabezado", "Bienvenido a la sección de directores")
+<h1> Lista de directores </h1>
+<ul>
+    @foreach(Director dir in @Model){
+        <li> @dir.DirectorId - @dir.Nombre @dir.Apellido</li>
+        <ul>
+            @foreach(Pelicula peli in dir.ListaPeliculas){
+                <li> @peli.Titulo </li>
+            }
+        </ul>
+    }
+</ul>

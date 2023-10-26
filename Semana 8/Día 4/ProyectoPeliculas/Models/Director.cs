@@ -1,0 +1,31 @@
+#pragma warning disable CS8618
+using System.ComponentModel.DataAnnotations;
+namespace ProyectoPeliculas.Models;
+
+public class Director{
+    [Key]
+    [Required(ErrorMessage="Por favor proporciona este dato!")]
+    public int DirectorId {get; set;}
+
+    [Required(ErrorMessage="Por favor proporciona este dato!")]
+    [MinLength(3, ErrorMessage="Tu nombre debe de tener al menos 3 letras.")]
+    public string Nombre {get; set;}
+    
+    [Required(ErrorMessage="Por favor proporciona este dato!")]
+    [MinLength(3, ErrorMessage="Tu apellido debe de tener al menos 3 letras.")]
+    public string Apellido {get; set;}
+    
+    [Required(ErrorMessage="Por favor proporciona este dato!")]
+    [EmailAddress(ErrorMessage="Por favor proporciona un correo válido.")]
+    public string Email {get; set;}
+    
+    [Required(ErrorMessage="Por favor proporciona este dato!")]
+    [DataType(DataType.Password)]
+    public string Password {get; set;}
+
+    public DateTime Fecha_Creacion {get; set;} = DateTime.Now;
+
+    public DateTime Fecha_Actualizacion {get; set;} = DateTime.Now;
+
+    public List<Pelicula> ListaPeliculas {get; set;} = new List<Pelicula>();
+}
