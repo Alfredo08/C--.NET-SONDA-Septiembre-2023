@@ -1,0 +1,4 @@
+@model string
+<header>
+    <h1> @Model @Context.Session.GetString("Nombre") @Context.Session.GetString("Apellido") </h1>
+</header>
